@@ -1,0 +1,29 @@
+{
+  "name": "mod-sandrajones",
+  "version": "1.0.0",
+  "description": "Mod-sandrajones is a Node.js module that provides a collection of clever utility functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandrajones0916339/mod-sandrajones"
+  },
+  "dependencies": {
+	  "part-lenovpaha": "1.0.0",
+"squarunblownett-jps": "1.0.0",
+"spleef-mod": "1.0.0",
+"anthonyjones": "1.0.0",
+"ruththompson": "1.0.0",
+"marinahramtsova": "1.0.0",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandrajones0916339/mod-sandrajones/issues"
+  },
+  "homepage": "https://github.com/sandrajones0916339/mod-sandrajones#readme"
+}
